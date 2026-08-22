@@ -6,7 +6,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 
 | Day | Folder | Project | Status |
 |---:|---|---|:---:|
-| 1 | `001_ansible_installation_and_configuration` | Ansible Installation and Configuration | ⏳ |
+| 1 | `001_ansible_installation_and_configuration` | Ansible Installation and Configuration | ✅ |
 | 2 | `002_inventory_basics` | Inventory Basics | ⏳ |
 | 3 | `003_static_inventory_groups` | Static Inventory Groups | ⏳ |
 | 4 | `004_host_variables` | Host Variables | ⏳ |
