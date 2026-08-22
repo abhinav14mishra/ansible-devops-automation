@@ -1,0 +1,8 @@
+---
+- name: Kubectl Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate kubectl Configuration
+      ansible.builtin.debug:
+        msg: "Implement the kubectl Configuration scenario with idempotent Ansible modules."

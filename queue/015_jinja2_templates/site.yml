@@ -1,0 +1,8 @@
+---
+- name: Jinja2 Templates
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Jinja2 Templates
+      ansible.builtin.debug:
+        msg: "Implement the Jinja2 Templates scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Backup Verification
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Backup Verification
+      ansible.builtin.debug:
+        msg: "Implement the Backup Verification scenario with idempotent Ansible modules."

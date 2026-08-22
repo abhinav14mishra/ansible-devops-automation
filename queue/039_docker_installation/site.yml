@@ -1,0 +1,10 @@
+---
+- name: Demonstrate Docker installation
+  hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Install Docker
+      ansible.builtin.package:
+        name: docker.io
+        state: present

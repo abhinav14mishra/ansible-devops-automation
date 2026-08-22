@@ -1,0 +1,8 @@
+---
+- name: Security Baseline
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Security Baseline
+      ansible.builtin.debug:
+        msg: "Implement the Security Baseline scenario with idempotent Ansible modules."

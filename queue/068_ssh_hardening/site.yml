@@ -1,0 +1,8 @@
+---
+- name: SSH Hardening
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate SSH Hardening
+      ansible.builtin.debug:
+        msg: "Implement the SSH Hardening scenario with idempotent Ansible modules."

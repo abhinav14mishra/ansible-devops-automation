@@ -1,0 +1,8 @@
+---
+- name: Linux Hardening Baseline
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Linux Hardening Baseline
+      ansible.builtin.debug:
+        msg: "Implement the Linux Hardening Baseline scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: SSM Agent Validation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate SSM Agent Validation
+      ansible.builtin.debug:
+        msg: "Implement the SSM Agent Validation scenario with idempotent Ansible modules."

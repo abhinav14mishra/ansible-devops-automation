@@ -1,0 +1,14 @@
+---
+- name: Demonstrate loops
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Create example files
+      ansible.builtin.file:
+        path: "/tmp/ansible-day12-{{ item }}"
+        state: touch
+        mode: "0644"
+      loop:
+        - one
+        - two
+        - three

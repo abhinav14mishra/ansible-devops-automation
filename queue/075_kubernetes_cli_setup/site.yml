@@ -1,0 +1,8 @@
+---
+- name: Kubernetes CLI Setup
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Kubernetes CLI Setup
+      ansible.builtin.debug:
+        msg: "Implement the Kubernetes CLI Setup scenario with idempotent Ansible modules."

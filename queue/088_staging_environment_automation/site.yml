@@ -1,0 +1,8 @@
+---
+- name: Staging Environment Automation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Staging Environment Automation
+      ansible.builtin.debug:
+        msg: "Implement the Staging Environment Automation scenario with idempotent Ansible modules."

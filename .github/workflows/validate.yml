@@ -1,0 +1,40 @@
+name: Validate Ansible Projects
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Install Ansible
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install ansible-core ansible-lint
+
+      - name: Validate project structure
+        run: python scripts/validate_projects.py
+
+      - name: Syntax-check every playbook against its own inventory
+        shell: bash
+        run: |
+          set -euo pipefail
+          for project in queue/*; do
+            echo "=============================================="
+            echo "Validating $project"
+            echo "=============================================="
+            ansible-playbook               --syntax-check               -i "$project/inventory"               "$project/site.yml"
+          done
+
+      - name: Run ansible-lint
+        run: ansible-lint queue/*/site.yml

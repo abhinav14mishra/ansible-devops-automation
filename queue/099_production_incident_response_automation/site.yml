@@ -1,0 +1,8 @@
+---
+- name: Production configuration baseline
+  hosts: production
+  gather_facts: true
+  tasks:
+    - name: Report managed production host
+      ansible.builtin.debug:
+        msg: "Managing {{ inventory_hostname }} on {{ ansible_facts.distribution }}"

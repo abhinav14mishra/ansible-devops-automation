@@ -1,0 +1,8 @@
+---
+- name: Disk Mount Automation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Disk Mount Automation
+      ansible.builtin.debug:
+        msg: "Implement the Disk Mount Automation scenario with idempotent Ansible modules."

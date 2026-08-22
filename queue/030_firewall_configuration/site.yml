@@ -1,0 +1,8 @@
+---
+- name: Firewall Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Firewall Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Firewall Configuration scenario with idempotent Ansible modules."

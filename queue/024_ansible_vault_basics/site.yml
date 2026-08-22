@@ -1,0 +1,8 @@
+---
+- name: Ansible Vault Basics
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Ansible Vault Basics
+      ansible.builtin.debug:
+        msg: "Implement the Ansible Vault Basics scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: IAM CLI Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate IAM CLI Configuration
+      ansible.builtin.debug:
+        msg: "Implement the IAM CLI Configuration scenario with idempotent Ansible modules."

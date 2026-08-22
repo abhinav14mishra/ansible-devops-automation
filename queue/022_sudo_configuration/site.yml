@@ -1,0 +1,8 @@
+---
+- name: Sudo Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Sudo Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Sudo Configuration scenario with idempotent Ansible modules."

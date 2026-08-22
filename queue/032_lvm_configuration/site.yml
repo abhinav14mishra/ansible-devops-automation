@@ -1,0 +1,8 @@
+---
+- name: LVM Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate LVM Configuration
+      ansible.builtin.debug:
+        msg: "Implement the LVM Configuration scenario with idempotent Ansible modules."

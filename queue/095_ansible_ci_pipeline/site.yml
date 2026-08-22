@@ -1,0 +1,8 @@
+---
+- name: Ansible CI Pipeline
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Ansible CI Pipeline
+      ansible.builtin.debug:
+        msg: "Implement the Ansible CI Pipeline scenario with idempotent Ansible modules."

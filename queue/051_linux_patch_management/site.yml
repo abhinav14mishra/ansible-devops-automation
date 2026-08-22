@@ -1,0 +1,8 @@
+---
+- name: Linux Patch Management
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Linux Patch Management
+      ansible.builtin.debug:
+        msg: "Implement the Linux Patch Management scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: AWS CLI Installation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate AWS CLI Installation
+      ansible.builtin.debug:
+        msg: "Implement the AWS CLI Installation scenario with idempotent Ansible modules."

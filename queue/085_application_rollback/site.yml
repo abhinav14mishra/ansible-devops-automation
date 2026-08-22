@@ -1,0 +1,8 @@
+---
+- name: Application Rollback
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Application Rollback
+      ansible.builtin.debug:
+        msg: "Implement the Application Rollback scenario with idempotent Ansible modules."

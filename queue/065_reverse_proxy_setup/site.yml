@@ -1,0 +1,8 @@
+---
+- name: Reverse Proxy Setup
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Reverse Proxy Setup
+      ansible.builtin.debug:
+        msg: "Implement the Reverse Proxy Setup scenario with idempotent Ansible modules."

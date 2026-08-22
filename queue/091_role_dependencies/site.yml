@@ -1,0 +1,8 @@
+---
+- name: Role Dependencies
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Role Dependencies
+      ansible.builtin.debug:
+        msg: "Implement the Role Dependencies scenario with idempotent Ansible modules."

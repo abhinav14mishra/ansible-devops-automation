@@ -1,0 +1,8 @@
+---
+- name: Production disaster recovery automation
+  hosts: production
+  gather_facts: true
+  tasks:
+    - name: Report DR target
+      ansible.builtin.debug:
+        msg: "Prepare backup verification, restore validation and failover procedures for {{ inventory_hostname }}"

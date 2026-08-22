@@ -1,0 +1,8 @@
+---
+- name: Log Collection
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Log Collection
+      ansible.builtin.debug:
+        msg: "Implement the Log Collection scenario with idempotent Ansible modules."

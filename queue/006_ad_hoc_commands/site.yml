@@ -1,0 +1,8 @@
+---
+- name: Ad Hoc Commands
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Ad Hoc Commands
+      ansible.builtin.debug:
+        msg: "Implement the Ad Hoc Commands scenario with idempotent Ansible modules."

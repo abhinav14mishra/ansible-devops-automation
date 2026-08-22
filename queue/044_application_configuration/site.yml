@@ -1,0 +1,8 @@
+---
+- name: Application Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Application Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Application Configuration scenario with idempotent Ansible modules."

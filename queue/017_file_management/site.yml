@@ -1,0 +1,8 @@
+---
+- name: File Management
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate File Management
+      ansible.builtin.debug:
+        msg: "Implement the File Management scenario with idempotent Ansible modules."

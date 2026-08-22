@@ -1,0 +1,8 @@
+---
+- name: Docker Registry Authentication
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Docker Registry Authentication
+      ansible.builtin.debug:
+        msg: "Implement the Docker Registry Authentication scenario with idempotent Ansible modules."

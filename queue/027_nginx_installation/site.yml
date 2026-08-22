@@ -1,0 +1,10 @@
+---
+- name: Demonstrate Nginx installation
+  hosts: web
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Install Nginx
+      ansible.builtin.package:
+        name: nginx
+        state: present

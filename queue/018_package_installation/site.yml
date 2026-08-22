@@ -1,0 +1,10 @@
+---
+- name: Demonstrate package management
+  hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Install curl
+      ansible.builtin.package:
+        name: curl
+        state: present

@@ -1,0 +1,8 @@
+---
+- name: Docker Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Docker Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Docker Configuration scenario with idempotent Ansible modules."

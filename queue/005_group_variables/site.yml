@@ -1,0 +1,8 @@
+---
+- name: Group Variables
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Group Variables
+      ansible.builtin.debug:
+        msg: "Implement the Group Variables scenario with idempotent Ansible modules."

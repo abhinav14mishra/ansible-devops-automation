@@ -1,0 +1,8 @@
+---
+- name: Application Restart Handler
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Application Restart Handler
+      ansible.builtin.debug:
+        msg: "Implement the Application Restart Handler scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Ansible Collections
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Ansible Collections
+      ansible.builtin.debug:
+        msg: "Implement the Ansible Collections scenario with idempotent Ansible modules."

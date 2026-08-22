@@ -1,0 +1,8 @@
+---
+- name: Dynamic AWS Inventory
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Dynamic AWS Inventory
+      ansible.builtin.debug:
+        msg: "Implement the Dynamic AWS Inventory scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Java Runtime Setup
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Java Runtime Setup
+      ansible.builtin.debug:
+        msg: "Implement the Java Runtime Setup scenario with idempotent Ansible modules."

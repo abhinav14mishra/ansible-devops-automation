@@ -1,0 +1,10 @@
+---
+- name: Demonstrate Apache installation
+  hosts: web
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Install Apache
+      ansible.builtin.package:
+        name: apache2
+        state: present

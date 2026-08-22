@@ -1,0 +1,8 @@
+---
+- name: Multi Environment Inventory
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Multi Environment Inventory
+      ansible.builtin.debug:
+        msg: "Implement the Multi Environment Inventory scenario with idempotent Ansible modules."

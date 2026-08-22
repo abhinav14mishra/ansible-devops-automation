@@ -1,0 +1,8 @@
+---
+- name: Registered Variables
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Registered Variables
+      ansible.builtin.debug:
+        msg: "Implement the Registered Variables scenario with idempotent Ansible modules."

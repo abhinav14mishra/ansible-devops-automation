@@ -1,0 +1,8 @@
+---
+- name: Docker Application Stack
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Docker Application Stack
+      ansible.builtin.debug:
+        msg: "Implement the Docker Application Stack scenario with idempotent Ansible modules."

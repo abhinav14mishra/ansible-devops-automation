@@ -1,0 +1,17 @@
+[all]
+localhost ansible_connection=local
+
+[web]
+localhost ansible_connection=local
+
+[app]
+localhost ansible_connection=local
+
+[ci]
+localhost ansible_connection=local
+
+[production]
+localhost ansible_connection=local
+
+[ec2]
+localhost ansible_connection=local

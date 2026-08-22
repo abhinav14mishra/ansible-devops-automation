@@ -1,0 +1,8 @@
+---
+- name: Health Check Task
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Health Check Task
+      ansible.builtin.debug:
+        msg: "Implement the Health Check Task scenario with idempotent Ansible modules."

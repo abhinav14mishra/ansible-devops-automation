@@ -1,0 +1,11 @@
+---
+- name: Demonstrate user management
+  hosts: all
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Create devops user
+      ansible.builtin.user:
+        name: devops
+        shell: /bin/bash
+        create_home: true

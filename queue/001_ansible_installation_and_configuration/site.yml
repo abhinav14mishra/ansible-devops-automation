@@ -1,0 +1,9 @@
+---
+- name: Verify Ansible installation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Show Ansible version
+      ansible.builtin.command: ansible --version
+      delegate_to: localhost
+      changed_when: false

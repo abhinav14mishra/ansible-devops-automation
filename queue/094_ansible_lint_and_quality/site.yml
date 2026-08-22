@@ -1,0 +1,9 @@
+---
+- name: Demonstrate dynamic AWS inventory
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  tasks:
+    - name: Explain dynamic inventory
+      ansible.builtin.debug:
+        msg: "Use amazon.aws.aws_ec2 inventory plugin for real AWS discovery."

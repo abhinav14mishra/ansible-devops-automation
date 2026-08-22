@@ -1,0 +1,28 @@
+# Ansible
+*.retry
+*.vault
+.vault_password
+.vault_pass
+*.pem
+*.key
+.env
+.ansible/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+*.tfvars
+!terraform.tfvars.example
+
+# Secrets
+*.secret
+secrets/

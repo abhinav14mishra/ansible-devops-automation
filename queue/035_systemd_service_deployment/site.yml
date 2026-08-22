@@ -1,0 +1,8 @@
+---
+- name: Systemd Service Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Systemd Service Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Systemd Service Deployment scenario with idempotent Ansible modules."

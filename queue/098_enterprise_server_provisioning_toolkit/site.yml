@@ -1,0 +1,10 @@
+---
+- name: Test Ansible idempotency
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Create idempotent marker
+      ansible.builtin.file:
+        path: /tmp/ansible-idempotency-marker
+        state: touch
+        mode: "0644"

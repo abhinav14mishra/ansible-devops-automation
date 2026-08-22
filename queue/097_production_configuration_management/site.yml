@@ -1,0 +1,8 @@
+---
+- name: Production Configuration Management
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Production Configuration Management
+      ansible.builtin.debug:
+        msg: "Implement the Production Configuration Management scenario with idempotent Ansible modules."

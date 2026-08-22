@@ -1,0 +1,8 @@
+---
+- name: Rolling Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Rolling Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Rolling Deployment scenario with idempotent Ansible modules."

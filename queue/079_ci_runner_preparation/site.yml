@@ -1,0 +1,8 @@
+---
+- name: CI Runner Preparation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate CI Runner Preparation
+      ansible.builtin.debug:
+        msg: "Implement the CI Runner Preparation scenario with idempotent Ansible modules."

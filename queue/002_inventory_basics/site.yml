@@ -1,0 +1,8 @@
+---
+- name: Demonstrate inventory basics
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Display inventory host
+      ansible.builtin.debug:
+        msg: "Managed host: {{ inventory_hostname }}"

@@ -1,0 +1,8 @@
+---
+- name: Idempotency Testing
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Idempotency Testing
+      ansible.builtin.debug:
+        msg: "Implement the Idempotency Testing scenario with idempotent Ansible modules."

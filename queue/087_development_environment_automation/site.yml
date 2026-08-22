@@ -1,0 +1,8 @@
+---
+- name: Development Environment Automation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Development Environment Automation
+      ansible.builtin.debug:
+        msg: "Implement the Development Environment Automation scenario with idempotent Ansible modules."

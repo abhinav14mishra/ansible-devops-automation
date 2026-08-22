@@ -1,0 +1,8 @@
+---
+- name: Copy Files
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Copy Files
+      ansible.builtin.debug:
+        msg: "Implement the Copy Files scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Tags
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Tags
+      ansible.builtin.debug:
+        msg: "Implement the Tags scenario with idempotent Ansible modules."

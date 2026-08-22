@@ -1,0 +1,8 @@
+---
+- name: Jenkins Agent Preparation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Jenkins Agent Preparation
+      ansible.builtin.debug:
+        msg: "Implement the Jenkins Agent Preparation scenario with idempotent Ansible modules."

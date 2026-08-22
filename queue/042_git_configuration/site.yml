@@ -1,0 +1,8 @@
+---
+- name: Git Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Git Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Git Configuration scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: First Ansible playbook
+  hosts: all
+  gather_facts: true
+  tasks:
+    - name: Display operating system
+      ansible.builtin.debug:
+        msg: "{{ ansible_facts.distribution }} {{ ansible_facts.distribution_version }}"

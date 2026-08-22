@@ -1,0 +1,8 @@
+---
+- name: EC2 Scheduled Maintenance
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate EC2 Scheduled Maintenance
+      ansible.builtin.debug:
+        msg: "Implement the EC2 Scheduled Maintenance scenario with idempotent Ansible modules."

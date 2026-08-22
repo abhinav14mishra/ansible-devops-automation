@@ -1,0 +1,8 @@
+---
+- name: Environment Variables
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Environment Variables
+      ansible.builtin.debug:
+        msg: "Implement the Environment Variables scenario with idempotent Ansible modules."

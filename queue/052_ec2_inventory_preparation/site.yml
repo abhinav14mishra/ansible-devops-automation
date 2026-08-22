@@ -1,0 +1,10 @@
+---
+- name: Prepare an EC2 host
+  hosts: ec2
+  become: true
+  gather_facts: false
+  tasks:
+    - name: Install common packages
+      ansible.builtin.package:
+        name: [curl, git, unzip]
+        state: present

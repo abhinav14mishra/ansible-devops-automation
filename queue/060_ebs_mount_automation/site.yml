@@ -1,0 +1,12 @@
+---
+- name: Demonstrate S3 backup workflow
+  hosts: localhost
+  connection: local
+  gather_facts: false
+  vars:
+    backup_bucket: example-bucket
+    backup_file: ./backup.tar.gz
+  tasks:
+    - name: Explain the backup operation
+      ansible.builtin.debug:
+        msg: "Upload {{ backup_file }} to s3://{{ backup_bucket }}/ using securely configured AWS credentials."

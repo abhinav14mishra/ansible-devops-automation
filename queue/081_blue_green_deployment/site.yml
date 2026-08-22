@@ -1,0 +1,8 @@
+---
+- name: Blue Green Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Blue Green Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Blue Green Deployment scenario with idempotent Ansible modules."

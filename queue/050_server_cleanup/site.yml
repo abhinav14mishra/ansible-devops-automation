@@ -1,0 +1,8 @@
+---
+- name: Server Cleanup
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Server Cleanup
+      ansible.builtin.debug:
+        msg: "Implement the Server Cleanup scenario with idempotent Ansible modules."

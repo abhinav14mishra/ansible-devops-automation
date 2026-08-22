@@ -1,0 +1,8 @@
+---
+- name: Application Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Application Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Application Deployment scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: S3 Backup with AWS CLI
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate S3 Backup with AWS CLI
+      ansible.builtin.debug:
+        msg: "Implement the S3 Backup with AWS CLI scenario with idempotent Ansible modules."

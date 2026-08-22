@@ -1,0 +1,8 @@
+---
+- name: Reusable Roles
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Reusable Roles
+      ansible.builtin.debug:
+        msg: "Implement the Reusable Roles scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Secrets Management with Vault
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Secrets Management with Vault
+      ansible.builtin.debug:
+        msg: "Implement the Secrets Management with Vault scenario with idempotent Ansible modules."

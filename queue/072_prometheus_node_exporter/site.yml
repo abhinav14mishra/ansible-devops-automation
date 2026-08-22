@@ -1,0 +1,8 @@
+---
+- name: Prometheus Node Exporter
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Prometheus Node Exporter
+      ansible.builtin.debug:
+        msg: "Implement the Prometheus Node Exporter scenario with idempotent Ansible modules."

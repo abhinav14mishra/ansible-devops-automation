@@ -1,0 +1,8 @@
+---
+- name: Demonstrate inventory groups
+  hosts: web
+  gather_facts: false
+  tasks:
+    - name: Display group membership
+      ansible.builtin.debug:
+        msg: "{{ inventory_hostname }} belongs to the web group"

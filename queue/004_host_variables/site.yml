@@ -1,0 +1,8 @@
+---
+- name: Host Variables
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Host Variables
+      ansible.builtin.debug:
+        msg: "Implement the Host Variables scenario with idempotent Ansible modules."

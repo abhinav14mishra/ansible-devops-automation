@@ -1,0 +1,8 @@
+---
+- name: Docker Compose Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Docker Compose Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Docker Compose Deployment scenario with idempotent Ansible modules."

@@ -1,0 +1,8 @@
+---
+- name: Load Balancer Configuration
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Load Balancer Configuration
+      ansible.builtin.debug:
+        msg: "Implement the Load Balancer Configuration scenario with idempotent Ansible modules."

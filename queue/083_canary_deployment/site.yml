@@ -1,0 +1,8 @@
+---
+- name: Canary Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Canary Deployment
+      ansible.builtin.debug:
+        msg: "Implement the Canary Deployment scenario with idempotent Ansible modules."

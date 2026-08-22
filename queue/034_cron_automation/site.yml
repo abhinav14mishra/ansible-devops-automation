@@ -1,0 +1,8 @@
+---
+- name: Cron Automation
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Cron Automation
+      ansible.builtin.debug:
+        msg: "Implement the Cron Automation scenario with idempotent Ansible modules."

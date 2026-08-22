@@ -1,0 +1,9 @@
+---
+- name: Demonstrate conditionals
+  hosts: all
+  gather_facts: true
+  tasks:
+    - name: Report Linux host
+      ansible.builtin.debug:
+        msg: "This host is Linux"
+      when: ansible_facts.system == "Linux"

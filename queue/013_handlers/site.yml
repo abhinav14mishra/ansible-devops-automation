@@ -1,0 +1,15 @@
+---
+- name: Demonstrate handlers
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Write managed configuration
+      ansible.builtin.copy:
+        content: "managed-by-ansible\n"
+        dest: /tmp/ansible-managed.conf
+        mode: "0644"
+      notify: Report configuration change
+  handlers:
+    - name: Report configuration change
+      ansible.builtin.debug:
+        msg: "Handler executed after configuration changed"

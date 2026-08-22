@@ -1,0 +1,8 @@
+---
+- name: TLS Certificate Deployment
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate TLS Certificate Deployment
+      ansible.builtin.debug:
+        msg: "Implement the TLS Certificate Deployment scenario with idempotent Ansible modules."

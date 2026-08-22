@@ -1,0 +1,8 @@
+---
+- name: Gathering Facts
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate Gathering Facts
+      ansible.builtin.debug:
+        msg: "Implement the Gathering Facts scenario with idempotent Ansible modules."

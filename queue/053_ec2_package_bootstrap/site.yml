@@ -1,0 +1,8 @@
+---
+- name: EC2 Package Bootstrap
+  hosts: all
+  gather_facts: false
+  tasks:
+    - name: Demonstrate EC2 Package Bootstrap
+      ansible.builtin.debug:
+        msg: "Implement the EC2 Package Bootstrap scenario with idempotent Ansible modules."
