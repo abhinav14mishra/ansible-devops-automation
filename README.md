@@ -11,7 +11,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 3 | `003_static_inventory_groups` | Static Inventory Groups | ✅ |
 | 4 | `004_host_variables` | Host Variables | ✅ |
 | 5 | `005_group_variables` | Group Variables | ✅ |
-| 6 | `006_ad_hoc_commands` | Ad Hoc Commands | ⏳ |
+| 6 | `006_ad_hoc_commands` | Ad Hoc Commands | ✅ |
 | 7 | `007_gathering_facts` | Gathering Facts | ⏳ |
 | 8 | `008_first_playbook` | First Playbook | ⏳ |
 | 9 | `009_playbook_variables` | Playbook Variables | ⏳ |
