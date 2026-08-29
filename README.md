@@ -13,7 +13,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 5 | `005_group_variables` | Group Variables | ✅ |
 | 6 | `006_ad_hoc_commands` | Ad Hoc Commands | ✅ |
 | 7 | `007_gathering_facts` | Gathering Facts | ✅ |
-| 8 | `008_first_playbook` | First Playbook | ⏳ |
+| 8 | `008_first_playbook` | First Playbook | ✅ |
 | 9 | `009_playbook_variables` | Playbook Variables | ⏳ |
 | 10 | `010_registered_variables` | Registered Variables | ⏳ |
 | 11 | `011_conditionals` | Conditionals | ⏳ |
