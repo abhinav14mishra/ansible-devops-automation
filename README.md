@@ -18,7 +18,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 10 | `010_registered_variables` | Registered Variables | ✅ |
 | 11 | `011_conditionals` | Conditionals | ✅ |
 | 12 | `012_loops` | Loops | ✅ |
-| 13 | `013_handlers` | Handlers | ⏳ |
+| 13 | `013_handlers` | Handlers | ✅ |
 | 14 | `014_tags` | Tags | ⏳ |
 | 15 | `015_jinja2_templates` | Jinja2 Templates | ⏳ |
 | 16 | `016_copy_files` | Copy Files | ⏳ |
