@@ -20,7 +20,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 12 | `012_loops` | Loops | ✅ |
 | 13 | `013_handlers` | Handlers | ✅ |
 | 14 | `014_tags` | Tags | ✅ |
-| 15 | `015_jinja2_templates` | Jinja2 Templates | ⏳ |
+| 15 | `015_jinja2_templates` | Jinja2 Templates | ✅ |
 | 16 | `016_copy_files` | Copy Files | ⏳ |
 | 17 | `017_file_management` | File Management | ⏳ |
 | 18 | `018_package_installation` | Package Installation | ⏳ |
