@@ -22,7 +22,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 14 | `014_tags` | Tags | ✅ |
 | 15 | `015_jinja2_templates` | Jinja2 Templates | ✅ |
 | 16 | `016_copy_files` | Copy Files | ✅ |
-| 17 | `017_file_management` | File Management | ⏳ |
+| 17 | `017_file_management` | File Management | ✅ |
 | 18 | `018_package_installation` | Package Installation | ⏳ |
 | 19 | `019_service_management` | Service Management | ⏳ |
 | 20 | `020_user_management` | User Management | ⏳ |
