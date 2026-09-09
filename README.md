@@ -24,7 +24,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 16 | `016_copy_files` | Copy Files | ✅ |
 | 17 | `017_file_management` | File Management | ✅ |
 | 18 | `018_package_installation` | Package Installation | ✅ |
-| 19 | `019_service_management` | Service Management | ⏳ |
+| 19 | `019_service_management` | Service Management | ✅ |
 | 20 | `020_user_management` | User Management | ⏳ |
 | 21 | `021_ssh_key_deployment` | SSH Key Deployment | ⏳ |
 | 22 | `022_sudo_configuration` | Sudo Configuration | ⏳ |
