@@ -25,7 +25,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 17 | `017_file_management` | File Management | ✅ |
 | 18 | `018_package_installation` | Package Installation | ✅ |
 | 19 | `019_service_management` | Service Management | ✅ |
-| 20 | `020_user_management` | User Management | ⏳ |
+| 20 | `020_user_management` | User Management | ✅ |
 | 21 | `021_ssh_key_deployment` | SSH Key Deployment | ⏳ |
 | 22 | `022_sudo_configuration` | Sudo Configuration | ⏳ |
 | 23 | `023_environment_variables` | Environment Variables | ⏳ |
