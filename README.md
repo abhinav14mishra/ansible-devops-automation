@@ -27,7 +27,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 19 | `019_service_management` | Service Management | ✅ |
 | 20 | `020_user_management` | User Management | ✅ |
 | 21 | `021_ssh_key_deployment` | SSH Key Deployment | ✅ |
-| 22 | `022_sudo_configuration` | Sudo Configuration | ⏳ |
+| 22 | `022_sudo_configuration` | Sudo Configuration | ✅ |
 | 23 | `023_environment_variables` | Environment Variables | ⏳ |
 | 24 | `024_ansible_vault_basics` | Ansible Vault Basics | ⏳ |
 | 25 | `025_encrypted_variables` | Encrypted Variables | ⏳ |
