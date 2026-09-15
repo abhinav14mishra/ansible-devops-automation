@@ -30,7 +30,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 22 | `022_sudo_configuration` | Sudo Configuration | ✅ |
 | 23 | `023_environment_variables` | Environment Variables | ✅ |
 | 24 | `024_ansible_vault_basics` | Ansible Vault Basics | ✅ |
-| 25 | `025_encrypted_variables` | Encrypted Variables | ⏳ |
+| 25 | `025_encrypted_variables` | Encrypted Variables | ✅ |
 | 26 | `026_apache_installation` | Apache Installation | ⏳ |
 | 27 | `027_nginx_installation` | Nginx Installation | ⏳ |
 | 28 | `028_nginx_virtual_host` | Nginx Virtual Host | ⏳ |
