@@ -34,7 +34,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 26 | `026_apache_installation` | Apache Installation | ✅ |
 | 27 | `027_nginx_installation` | Nginx Installation | ✅ |
 | 28 | `028_nginx_virtual_host` | Nginx Virtual Host | ✅ |
-| 29 | `029_linux_hardening_baseline` | Linux Hardening Baseline | ⏳ |
+| 29 | `029_linux_hardening_baseline` | Linux Hardening Baseline | ✅ |
 | 30 | `030_firewall_configuration` | Firewall Configuration | ⏳ |
 | 31 | `031_disk_mount_automation` | Disk Mount Automation | ⏳ |
 | 32 | `032_lvm_configuration` | LVM Configuration | ⏳ |
