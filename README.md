@@ -39,7 +39,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 31 | `031_disk_mount_automation` | Disk Mount Automation | ✅ |
 | 32 | `032_lvm_configuration` | LVM Configuration | ✅ |
 | 33 | `033_logrotate_configuration` | Logrotate Configuration | ✅ |
-| 34 | `034_cron_automation` | Cron Automation | ⏳ |
+| 34 | `034_cron_automation` | Cron Automation | ✅ |
 | 35 | `035_systemd_service_deployment` | Systemd Service Deployment | ⏳ |
 | 36 | `036_python_runtime_setup` | Python Runtime Setup | ⏳ |
 | 37 | `037_java_runtime_setup` | Java Runtime Setup | ⏳ |
