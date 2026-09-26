@@ -41,7 +41,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 33 | `033_logrotate_configuration` | Logrotate Configuration | ✅ |
 | 34 | `034_cron_automation` | Cron Automation | ✅ |
 | 35 | `035_systemd_service_deployment` | Systemd Service Deployment | ✅ |
-| 36 | `036_python_runtime_setup` | Python Runtime Setup | ⏳ |
+| 36 | `036_python_runtime_setup` | Python Runtime Setup | ✅ |
 | 37 | `037_java_runtime_setup` | Java Runtime Setup | ⏳ |
 | 38 | `038_node_js_runtime_setup` | Node.js Runtime Setup | ⏳ |
 | 39 | `039_docker_installation` | Docker Installation | ⏳ |
