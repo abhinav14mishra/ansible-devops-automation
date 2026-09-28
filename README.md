@@ -43,7 +43,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 35 | `035_systemd_service_deployment` | Systemd Service Deployment | ✅ |
 | 36 | `036_python_runtime_setup` | Python Runtime Setup | ✅ |
 | 37 | `037_java_runtime_setup` | Java Runtime Setup | ✅ |
-| 38 | `038_node_js_runtime_setup` | Node.js Runtime Setup | ⏳ |
+| 38 | `038_node_js_runtime_setup` | Node.js Runtime Setup | ✅ |
 | 39 | `039_docker_installation` | Docker Installation | ⏳ |
 | 40 | `040_docker_configuration` | Docker Configuration | ⏳ |
 | 41 | `041_docker_compose_deployment` | Docker Compose Deployment | ⏳ |
