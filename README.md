@@ -45,7 +45,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 37 | `037_java_runtime_setup` | Java Runtime Setup | ✅ |
 | 38 | `038_node_js_runtime_setup` | Node.js Runtime Setup | ✅ |
 | 39 | `039_docker_installation` | Docker Installation | ✅ |
-| 40 | `040_docker_configuration` | Docker Configuration | ⏳ |
+| 40 | `040_docker_configuration` | Docker Configuration | ✅ |
 | 41 | `041_docker_compose_deployment` | Docker Compose Deployment | ⏳ |
 | 42 | `042_git_configuration` | Git Configuration | ⏳ |
 | 43 | `043_application_deployment` | Application Deployment | ⏳ |
