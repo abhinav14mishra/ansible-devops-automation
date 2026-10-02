@@ -47,7 +47,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 39 | `039_docker_installation` | Docker Installation | ✅ |
 | 40 | `040_docker_configuration` | Docker Configuration | ✅ |
 | 41 | `041_docker_compose_deployment` | Docker Compose Deployment | ✅ |
-| 42 | `042_git_configuration` | Git Configuration | ⏳ |
+| 42 | `042_git_configuration` | Git Configuration | ✅ |
 | 43 | `043_application_deployment` | Application Deployment | ⏳ |
 | 44 | `044_application_configuration` | Application Configuration | ⏳ |
 | 45 | `045_application_restart_handler` | Application Restart Handler | ⏳ |
