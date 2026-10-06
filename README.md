@@ -51,7 +51,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 43 | `043_application_deployment` | Application Deployment | ✅ |
 | 44 | `044_application_configuration` | Application Configuration | ✅ |
 | 45 | `045_application_restart_handler` | Application Restart Handler | ✅ |
-| 46 | `046_health_check_task` | Health Check Task | ⏳ |
+| 46 | `046_health_check_task` | Health Check Task | ✅ |
 | 47 | `047_backup_directory_automation` | Backup Directory Automation | ⏳ |
 | 48 | `048_backup_verification` | Backup Verification | ⏳ |
 | 49 | `049_log_collection` | Log Collection | ⏳ |
