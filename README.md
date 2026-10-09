@@ -54,7 +54,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 46 | `046_health_check_task` | Health Check Task | ✅ |
 | 47 | `047_backup_directory_automation` | Backup Directory Automation | ✅ |
 | 48 | `048_backup_verification` | Backup Verification | ✅ |
-| 49 | `049_log_collection` | Log Collection | ⏳ |
+| 49 | `049_log_collection` | Log Collection | ✅ |
 | 50 | `050_server_cleanup` | Server Cleanup | ⏳ |
 | 51 | `051_linux_patch_management` | Linux Patch Management | ⏳ |
 | 52 | `052_ec2_inventory_preparation` | EC2 Inventory Preparation | ⏳ |
