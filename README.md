@@ -55,7 +55,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 47 | `047_backup_directory_automation` | Backup Directory Automation | ✅ |
 | 48 | `048_backup_verification` | Backup Verification | ✅ |
 | 49 | `049_log_collection` | Log Collection | ✅ |
-| 50 | `050_server_cleanup` | Server Cleanup | ⏳ |
+| 50 | `050_server_cleanup` | Server Cleanup | ✅ |
 | 51 | `051_linux_patch_management` | Linux Patch Management | ⏳ |
 | 52 | `052_ec2_inventory_preparation` | EC2 Inventory Preparation | ⏳ |
 | 53 | `053_ec2_package_bootstrap` | EC2 Package Bootstrap | ⏳ |
