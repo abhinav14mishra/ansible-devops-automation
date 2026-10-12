@@ -57,7 +57,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 49 | `049_log_collection` | Log Collection | ✅ |
 | 50 | `050_server_cleanup` | Server Cleanup | ✅ |
 | 51 | `051_linux_patch_management` | Linux Patch Management | ✅ |
-| 52 | `052_ec2_inventory_preparation` | EC2 Inventory Preparation | ⏳ |
+| 52 | `052_ec2_inventory_preparation` | EC2 Inventory Preparation | ✅ |
 | 53 | `053_ec2_package_bootstrap` | EC2 Package Bootstrap | ⏳ |
 | 54 | `054_ec2_web_server_setup` | EC2 Web Server Setup | ⏳ |
 | 55 | `055_ec2_application_deployment` | EC2 Application Deployment | ⏳ |
