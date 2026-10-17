@@ -62,7 +62,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 54 | `054_ec2_web_server_setup` | EC2 Web Server Setup | ✅ |
 | 55 | `055_ec2_application_deployment` | EC2 Application Deployment | ✅ |
 | 56 | `056_ec2_scheduled_maintenance` | EC2 Scheduled Maintenance | ✅ |
-| 57 | `057_aws_cli_installation` | AWS CLI Installation | ⏳ |
+| 57 | `057_aws_cli_installation` | AWS CLI Installation | ✅ |
 | 58 | `058_cloudwatch_agent_setup` | CloudWatch Agent Setup | ⏳ |
 | 59 | `059_ssm_agent_validation` | SSM Agent Validation | ⏳ |
 | 60 | `060_ebs_mount_automation` | EBS Mount Automation | ⏳ |
