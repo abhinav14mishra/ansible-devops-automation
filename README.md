@@ -66,7 +66,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 58 | `058_cloudwatch_agent_setup` | CloudWatch Agent Setup | ✅ |
 | 59 | `059_ssm_agent_validation` | SSM Agent Validation | ✅ |
 | 60 | `060_ebs_mount_automation` | EBS Mount Automation | ✅ |
-| 61 | `061_s3_backup_with_aws_cli` | S3 Backup with AWS CLI | ⏳ |
+| 61 | `061_s3_backup_with_aws_cli` | S3 Backup with AWS CLI | ✅ |
 | 62 | `062_iam_cli_configuration` | IAM CLI Configuration | ⏳ |
 | 63 | `063_secrets_management_with_vault` | Secrets Management with Vault | ⏳ |
 | 64 | `064_load_balancer_configuration` | Load Balancer Configuration | ⏳ |
