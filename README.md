@@ -69,7 +69,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 61 | `061_s3_backup_with_aws_cli` | S3 Backup with AWS CLI | ✅ |
 | 62 | `062_iam_cli_configuration` | IAM CLI Configuration | ✅ |
 | 63 | `063_secrets_management_with_vault` | Secrets Management with Vault | ✅ |
-| 64 | `064_load_balancer_configuration` | Load Balancer Configuration | ⏳ |
+| 64 | `064_load_balancer_configuration` | Load Balancer Configuration | ✅ |
 | 65 | `065_reverse_proxy_setup` | Reverse Proxy Setup | ⏳ |
 | 66 | `066_tls_certificate_deployment` | TLS Certificate Deployment | ⏳ |
 | 67 | `067_security_baseline` | Security Baseline | ⏳ |
