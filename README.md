@@ -70,7 +70,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 62 | `062_iam_cli_configuration` | IAM CLI Configuration | ✅ |
 | 63 | `063_secrets_management_with_vault` | Secrets Management with Vault | ✅ |
 | 64 | `064_load_balancer_configuration` | Load Balancer Configuration | ✅ |
-| 65 | `065_reverse_proxy_setup` | Reverse Proxy Setup | ⏳ |
+| 65 | `065_reverse_proxy_setup` | Reverse Proxy Setup | ✅ |
 | 66 | `066_tls_certificate_deployment` | TLS Certificate Deployment | ⏳ |
 | 67 | `067_security_baseline` | Security Baseline | ⏳ |
 | 68 | `068_ssh_hardening` | SSH Hardening | ⏳ |
