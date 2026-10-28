@@ -73,7 +73,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 65 | `065_reverse_proxy_setup` | Reverse Proxy Setup | ✅ |
 | 66 | `066_tls_certificate_deployment` | TLS Certificate Deployment | ✅ |
 | 67 | `067_security_baseline` | Security Baseline | ✅ |
-| 68 | `068_ssh_hardening` | SSH Hardening | ⏳ |
+| 68 | `068_ssh_hardening` | SSH Hardening | ✅ |
 | 69 | `069_fail2ban_deployment` | Fail2ban Deployment | ⏳ |
 | 70 | `070_auditd_deployment` | Auditd Deployment | ⏳ |
 | 71 | `071_monitoring_agent_deployment` | Monitoring Agent Deployment | ⏳ |
