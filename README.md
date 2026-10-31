@@ -76,7 +76,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 68 | `068_ssh_hardening` | SSH Hardening | ✅ |
 | 69 | `069_fail2ban_deployment` | Fail2ban Deployment | ✅ |
 | 70 | `070_auditd_deployment` | Auditd Deployment | ✅ |
-| 71 | `071_monitoring_agent_deployment` | Monitoring Agent Deployment | ⏳ |
+| 71 | `071_monitoring_agent_deployment` | Monitoring Agent Deployment | ✅ |
 | 72 | `072_prometheus_node_exporter` | Prometheus Node Exporter | ⏳ |
 | 73 | `073_docker_application_stack` | Docker Application Stack | ⏳ |
 | 74 | `074_docker_registry_authentication` | Docker Registry Authentication | ⏳ |
