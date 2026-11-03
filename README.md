@@ -79,7 +79,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 71 | `071_monitoring_agent_deployment` | Monitoring Agent Deployment | ✅ |
 | 72 | `072_prometheus_node_exporter` | Prometheus Node Exporter | ✅ |
 | 73 | `073_docker_application_stack` | Docker Application Stack | ✅ |
-| 74 | `074_docker_registry_authentication` | Docker Registry Authentication | ⏳ |
+| 74 | `074_docker_registry_authentication` | Docker Registry Authentication | ✅ |
 | 75 | `075_kubernetes_cli_setup` | Kubernetes CLI Setup | ⏳ |
 | 76 | `076_kubectl_configuration` | kubectl Configuration | ⏳ |
 | 77 | `077_helm_installation` | Helm Installation | ⏳ |
