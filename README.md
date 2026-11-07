@@ -83,7 +83,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 75 | `075_kubernetes_cli_setup` | Kubernetes CLI Setup | ✅ |
 | 76 | `076_kubectl_configuration` | kubectl Configuration | ✅ |
 | 77 | `077_helm_installation` | Helm Installation | ✅ |
-| 78 | `078_jenkins_agent_preparation` | Jenkins Agent Preparation | ⏳ |
+| 78 | `078_jenkins_agent_preparation` | Jenkins Agent Preparation | ✅ |
 | 79 | `079_ci_runner_preparation` | CI Runner Preparation | ⏳ |
 | 80 | `080_github_actions_runner_preparation` | GitHub Actions Runner Preparation | ⏳ |
 | 81 | `081_blue_green_deployment` | Blue Green Deployment | ⏳ |
