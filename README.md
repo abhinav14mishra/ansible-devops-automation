@@ -88,7 +88,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 80 | `080_github_actions_runner_preparation` | GitHub Actions Runner Preparation | ✅ |
 | 81 | `081_blue_green_deployment` | Blue Green Deployment | ✅ |
 | 82 | `082_rolling_deployment` | Rolling Deployment | ✅ |
-| 83 | `083_canary_deployment` | Canary Deployment | ⏳ |
+| 83 | `083_canary_deployment` | Canary Deployment | ✅ |
 | 84 | `084_zero_downtime_deployment` | Zero Downtime Deployment | ⏳ |
 | 85 | `085_application_rollback` | Application Rollback | ⏳ |
 | 86 | `086_multi_environment_inventory` | Multi Environment Inventory | ⏳ |
