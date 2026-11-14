@@ -90,7 +90,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 82 | `082_rolling_deployment` | Rolling Deployment | ✅ |
 | 83 | `083_canary_deployment` | Canary Deployment | ✅ |
 | 84 | `084_zero_downtime_deployment` | Zero Downtime Deployment | ✅ |
-| 85 | `085_application_rollback` | Application Rollback | ⏳ |
+| 85 | `085_application_rollback` | Application Rollback | ✅ |
 | 86 | `086_multi_environment_inventory` | Multi Environment Inventory | ⏳ |
 | 87 | `087_development_environment_automation` | Development Environment Automation | ⏳ |
 | 88 | `088_staging_environment_automation` | Staging Environment Automation | ⏳ |
