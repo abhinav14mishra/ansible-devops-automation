@@ -96,7 +96,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 88 | `088_staging_environment_automation` | Staging Environment Automation | ✅ |
 | 89 | `089_production_environment_baseline` | Production Environment Baseline | ✅ |
 | 90 | `090_reusable_roles` | Reusable Roles | ✅ |
-| 91 | `091_role_dependencies` | Role Dependencies | ⏳ |
+| 91 | `091_role_dependencies` | Role Dependencies | ✅ |
 | 92 | `092_ansible_collections` | Ansible Collections | ⏳ |
 | 93 | `093_dynamic_aws_inventory` | Dynamic AWS Inventory | ⏳ |
 | 94 | `094_ansible_lint_and_quality` | Ansible Lint and Quality | ⏳ |
