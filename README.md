@@ -98,7 +98,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 90 | `090_reusable_roles` | Reusable Roles | ✅ |
 | 91 | `091_role_dependencies` | Role Dependencies | ✅ |
 | 92 | `092_ansible_collections` | Ansible Collections | ✅ |
-| 93 | `093_dynamic_aws_inventory` | Dynamic AWS Inventory | ⏳ |
+| 93 | `093_dynamic_aws_inventory` | Dynamic AWS Inventory | ✅ |
 | 94 | `094_ansible_lint_and_quality` | Ansible Lint and Quality | ⏳ |
 | 95 | `095_ansible_ci_pipeline` | Ansible CI Pipeline | ⏳ |
 | 96 | `096_idempotency_testing` | Idempotency Testing | ⏳ |
