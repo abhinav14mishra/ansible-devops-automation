@@ -101,7 +101,7 @@ A hands-on 100-project Ansible automation journey, progressing from fundamentals
 | 93 | `093_dynamic_aws_inventory` | Dynamic AWS Inventory | ✅ |
 | 94 | `094_ansible_lint_and_quality` | Ansible Lint and Quality | ✅ |
 | 95 | `095_ansible_ci_pipeline` | Ansible CI Pipeline | ✅ |
-| 96 | `096_idempotency_testing` | Idempotency Testing | ⏳ |
+| 96 | `096_idempotency_testing` | Idempotency Testing | ✅ |
 | 97 | `097_production_configuration_management` | Production Configuration Management | ⏳ |
 | 98 | `098_enterprise_server_provisioning_toolkit` | Enterprise Server Provisioning Toolkit | ⏳ |
 | 99 | `099_production_incident_response_automation` | Production Incident Response Automation | ⏳ |
